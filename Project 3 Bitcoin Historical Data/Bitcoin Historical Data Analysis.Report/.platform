@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Bitcoin Historical Data Analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "14102bb9-0036-4277-b7c8-7343e0b1b0d5"
+  }
+}

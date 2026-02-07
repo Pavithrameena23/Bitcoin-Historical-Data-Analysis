@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Bitcoin Historical Data Analysis.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
