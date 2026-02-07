@@ -36,5 +36,8 @@ Time-Series Analysis: Leveraged Date Hierarchies to break down performance by Ye
 ├── Bitcoin-Analysis-Final.pbip # Main Power BI Project file
 
 └── README.md                  # Project documentation
-<img width="656" height="368" alt="Cholera Outbreak, Stockholm, 1853 Analysis" src="https://github.com/user-attachments/assets/1dc0f291-a67b-4ff6-a49e-550af116f659" />
+
+<img width="656" height="367" alt="Bitcoin Historical Data Analysis" src="https://github.com/user-attachments/assets/01a13b58-0d37-49f6-a336-cd21438adcea" />
+
+
 
